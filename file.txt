@@ -1,2 +1,5 @@
 This is file.txt.
+
 This line was added in the master branch after my-feature was created.
+
+This line is added in the my-feature branch.
